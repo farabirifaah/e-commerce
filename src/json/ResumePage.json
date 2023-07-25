@@ -1,0 +1,102 @@
+{
+  "data": {
+    "hero": {
+      "title": "",
+      "description": "",
+      "hero_img": "",
+      "contact": [
+        {
+          "id": 1,
+          "icon": "",
+          "name": "LinkedIn"
+        },
+        {
+          "id": 2,
+          "icon": "",
+          "name": "Github"
+        },
+        {
+          "id": 3,
+          "icon": "",
+          "name": "Instagram"
+        }
+      ]
+    },
+    "techstack": [
+      {
+        "id": 1,
+        "icon": "../assets/images/icon/mongodb.png",
+        "title": "Mongo DB",
+        "description": ""
+      },
+      {
+        "id": 2,
+        "icon": {},
+        "title": "React Js",
+        "description": "For Building web app"
+      }
+    ],
+    "education": [
+      {
+        "id": 1,
+        "education_name": "SMK AL-Amanah",
+        "major": "High School",
+        "description": "",
+        "start_date": "",
+        "end_date": ""
+      },
+      {
+        "id": 2,
+        "education_name": "Pamulang University",
+        "major": "Master Degree",
+        "description": "",
+        "start_date": "",
+        "end_date": ""
+      }
+    ],
+    "experiences": [
+      {
+        "id": 1,
+        "name": "",
+        "description": "",
+        "experience_img": "",
+        "start_date": "",
+        "end_date": ""
+      },
+      {
+        "id": 1,
+        "name": "",
+        "description": "",
+        "experience_img": "",
+        "start_date": "",
+        "end_date": ""
+      }
+    ],
+    "works": [
+      {
+        "id": 1,
+        "name": "web travel apps",
+        "description": "web to booking hotels and transport services",
+        "imageSrc": "https://iili.io/H6cGZzb.jpg",
+        "works_date": "",
+        "href": "#"
+      },
+      {
+        "id": 2,
+        "name": "Mobile Booking Plane Apps",
+        "description": "web to booking plane",
+        "imageSrc": "https://iili.io/H6cGCJ9.jpg",
+        "works_date": "",
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "name": "E-Commerce Mobile App",
+        "description": "E-Commerce shoes",
+        "imageSrc": "https://iili.io/H6cGqU7.md.jpg",
+        "works_date": "",
+        "href": "#"
+      }
+    ]
+  }
+}
