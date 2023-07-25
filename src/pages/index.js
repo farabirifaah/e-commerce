@@ -1,2 +1,3 @@
 export { default as LandingPage } from "./LandingPage";
-export { default as ResumePage } from "./ResumePage";
+export { default as CategoryPage } from "./CategoryPage";
+export { default as ProductPage } from "./ProductPage";
